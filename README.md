@@ -6,7 +6,7 @@ Portfolio này được thiết kế tập trung vào 3 nhóm kỹ năng khi là
  - Power BI (trực quan hóa).
 ## Cấu trúc
 ### Python
-**File:** Data_Jobs_Analysis.ipynb\
+**File:** ['Data_Jobs_Analysis.ipynb'](https://github.com/AnhMIS/Data_Analysis_Portfolio/blob/main/Data_Jobs_Analysis.ipynb)
 **Thư viện sử dụng:** Pandas, Numpy, Matplotlib, Seaborn.\
 **Nội dung:** Tiến hành những phân tích trên bộ dữ liệu về Việc làm và mức lương trong lĩnh vực dữ liệu từ năm 2020 - 2024.\
 **Link bộ dữ liệu:** https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024

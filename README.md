@@ -15,4 +15,4 @@ Portfolio này được thiết kế tập trung vào 3 nhóm kỹ năng khi là
 **Nội dung:** Tiến hành truy vấn trên file Sakila.sql với cơ sở dữ liệu quan hệ của một cửa hàng cho thuê băng đĩa. File Sakila_DB_diagram.png chính là schema diagram của cơ sở dữ liệu đó.
 ### Power BI
 **File:** Revenue_dashboard.pbix\
-**Nội dung:** Tiến hành tạo dựng dashboard về doanh thu cho một công ty thực phẩm.
+**Nội dung:** Tiến hành tạo dựng dashboard về doanh thu cho một công ty thực phẩm. File Revenue_dashboard.png sẽ cho cái nhìn sơ khởi về dashboard.
